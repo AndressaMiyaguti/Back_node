@@ -1,0 +1,16 @@
+- Como estamos trabalhando com NODE rodar no terminal => npm init -y ( Ele criará um package.json, com o mesmo nome da pasta criada).
+- npm install express => Biblioteca para NODE JS que levanta um servidor de web
+- Criar um arquivo js
+- Colocar o script de start no json eo nodemon .  
+- npm install dotenv
+- Criar um arquivo .env
+- Rodar o git init
+-Criar uma arquivo .gitignore
+-Criar arquivo.exemplo.env => Estará listado as variáveis de ambiente que a aplicação precisará ter
+-Criar um arquivo database.js
+-Instalar uuid  => npm install uuid
+- endereço para teste http://localhost:4000/create-car
+{
+   "name": "Lamborghini",
+   "year": "2021"
+}
